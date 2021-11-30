@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZoomMan2
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Discord bot clint
+- 🤴 Memeber of team-ic
 - 📫 How to reach me idk
 
 <!---
